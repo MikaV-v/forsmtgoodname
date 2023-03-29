@@ -1,4 +1,4 @@
-package com.example.Nikk0teen
+package com.example.nikk0teen
 
 import org.junit.Test
 

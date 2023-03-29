@@ -1,4 +1,4 @@
-package com.example.Nikk0teen
+package com.example.nikk0teen
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
